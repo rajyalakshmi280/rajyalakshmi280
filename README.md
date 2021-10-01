@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajyalakshmi.
--🔭 Embedded Engineer, Open source enthusiastic.
+- 🔭 Embedded Engineer, Open source enthusiastic.
 - 👀 I'm always up for new challenges that inspire me to push myself out of my comfort zone.
 - 🌱 I’m currently learning cybersecurity, python, Data Science, Machine learning, 
 - 💞️ I’m looking to collaborate on open source projects
