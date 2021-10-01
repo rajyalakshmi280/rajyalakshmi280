@@ -5,10 +5,9 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
   
-  𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀
+𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀
 
 Programming languages
-
 Embedded C, C++, Python scripting
 
 Domain of expertise:
