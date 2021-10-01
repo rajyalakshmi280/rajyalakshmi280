@@ -9,7 +9,7 @@
 
 Programming languages
 
-Intermediate :-> Embedded C, C++, Python scripting
+Embedded C, C++, Python scripting
 
 Domain of expertise:
 Networking
